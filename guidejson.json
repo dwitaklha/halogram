@@ -73,26 +73,18 @@
       "state" : "free",
       "title" : "3. Create an image.",
       "description" : "",
-      "written" : "Test written 3"
+      "written" : "<p>One of the coolest aspects of this project is that the images to be projected can be created digitally or traditionally. Students can either create in a graphics program or create with traditional media, snap a photo, and upload it to the device.</p><p><br></p><p>Whichever approach you choose, make sure to follow these steps to ensure a successful hologram projection.</p><p><br></p><p>paper divided for hologram</p><p><br></p><p>Start with a black or dark-colored background.</p><p>This will result in the hologram projection showing up bright and clear.</p><p>Before creating the image, draw an &ldquo;x&rdquo; to divide the paper or screen.</p><p>If using traditional materials, draw lightly as you&rsquo;ll want to remove the &ldquo;x&rdquo; later on.</p><p>Draw an image in one of the four triangular-shaped spaces.&nbsp;</p><p>Repeat the same image in the three remaining spaces.</p><p>This is an excellent opportunity to discuss symmetry. If students are using text, make sure to tell them to write backward since the image will be reflected.</p>"
     },
     {
       "id" : 4,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "Test title 4",
+      "title" : "4. Present Your Hologram",
       "description" : "",
-      "written" : "Test written 4"
+      "written" : "<p>To create the holographic effect, you must have your digital image or traditional drawing on a tablet or smartphone. The digital image can be shared with the device you will be using to project. To project the traditional image, simply take a photo of it. You can see the hologram best if the lights are turned off. Place the transparency projector from Step 2 in the middle of the image on the device and look at the side of the projector. The image will appear as if it is floating in the center of the projector.</p>"
     },
     {
       "id" : 5,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "4. Present Your Hologram",
-      "description" : "",
-      "written" : "Test written 5"
-    },
-    {
-      "id" : 6,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Example 1: Digital Image",
@@ -100,7 +92,7 @@
       "written" : "Test written 6"
     },
     {
-      "id" : 7,
+      "id" : 6,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Example 2: Digital Animation",
@@ -108,7 +100,7 @@
       "written" : "Test written 7"
     },
     {
-      "id" : 8,
+      "id" : 7,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Example 3: Traditional Drawing or Painting",
