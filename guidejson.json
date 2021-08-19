@@ -45,7 +45,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/halogram/1024halo.png",
       "state" : "free",
       "title" : "Follow the steps below to create your own low-tech holograms!",
       "description" : "",
@@ -53,7 +53,7 @@
     },
     {
       "id" : 1,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/halogram/a.png",
       "state" : "free",
       "title" : "1. Gain a basic understanding of the process",
       "description" : "",
@@ -61,7 +61,7 @@
     },
     {
       "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/halogram/b.png",
       "state" : "free",
       "title" : "2. Create a hologram pyramid projector.",
       "description" : "",
@@ -69,7 +69,7 @@
     },
     {
       "id" : 3,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/halogram/c.png",
       "state" : "free",
       "title" : "3. Create an image.",
       "description" : "",
@@ -77,7 +77,7 @@
     },
     {
       "id" : 4,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/halogram/d.png",
       "state" : "free",
       "title" : "4. Present Your Hologram",
       "description" : "",
@@ -85,27 +85,19 @@
     },
     {
       "id" : 5,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/halogram/ex1.png",
       "state" : "free",
       "title" : "Example 1: Digital Image",
       "description" : "",
-      "written" : "Test written 6"
-    },
-    {
-      "id" : 6,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
-      "title" : "Example 2: Digital Animation",
-      "description" : "",
-      "written" : "Test written 7"
+      "written" : "Digital Image"
     },
     {
       "id" : 7,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://dwitaklha.github.io/halogram/ex3.png",
       "state" : "free",
-      "title" : "Example 3: Traditional Drawing or Painting",
-      "description" : "",
-      "written" : "Test written 8"
+      "title" : "Example 2: Traditional Drawing or Painting",
+      "description" : "Traditional Drawing or Painting",
+      "written" : ""
     }
   ]
 }
