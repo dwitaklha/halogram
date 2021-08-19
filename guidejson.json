@@ -16,9 +16,10 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL",
-      "facebook_native_id" : "IMG_16_9_APP_INSTALL"
+      "facebook_banner_id" : "200248745403261_202562708505198",
+      "facebook_interstitial_id" : "200248745403261_202563515171784",
+      "facebook_native_id" : "200248745403261_202563791838423",
+      "facebook_native_banner_id" : "200248745403261_208727114555424"
     },
     "mode_ads_banner" : "0",
     "mode_ads_interstitial" : "0",
@@ -44,6 +45,7 @@
     }
   },
   "posts" : [
+      
     {
       "id" : 0,
       "imageURL" : "https://dwitaklha.github.io/halogram/1024halo.png",
