@@ -21,7 +21,7 @@
       "facebook_native_id" : "200248745403261_202563791838423",
       "facebook_native_banner_id" : "200248745403261_208727114555424"
     },
-    "mode_ads_banner" : "0",
+    "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "0",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : false,
