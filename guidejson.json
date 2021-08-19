@@ -47,31 +47,31 @@
       "id" : 0,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "dadamou",
+      "title" : "Follow the steps below to create your own low-tech holograms!",
       "description" : "",
-      "written" : "Test written 0 <br>My written"
+      "written" : "<p>Follow the steps below to create your own low-tech holograms!</p><p>1. Gain a basic understanding of the process.</p><p>2. Create a hologram pyramid projector.</p><p>3. Create an image.</p><p>4. Present Your Hologram</p><p><br></p>"
     },
     {
       "id" : 1,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "Test title 1",
+      "title" : "1. Gain a basic understanding of the process",
       "description" : "",
-      "written" : "Test written 1"
+      "written" : "<p>The first step to this project is gaining a basic understanding of how holograms work. Although these creations are easiest to describe as holograms, they are actually the result of Pepper&rsquo;s Ghost effect. Pepper&rsquo;s Ghost is an illusion effect that makes images appear like holograms or ghostly apparitions. It is a common special effect technique used in theaters, amusement parks, concerts, and museums. The illusion is made possible with glass (or glass-like surfaces such as transparency) and light. Because of ray optics, light is reflected and refracted to produce an image that appears like a hologram.</p>"
     },
     {
       "id" : 2,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "Test title 2",
+      "title" : "2. Create a hologram pyramid projector.",
       "description" : "",
-      "written" : "Test written 2"
+      "written" : "<p>To start this project, your students will need to create pyramid projectors. These are the clear, pyramid-shaped containers that will help reflect and refract the light. This step sounds complicated, but all you need to do is run transparency through the copy machine.</p><p><br></p><p>The easiest way to make the projector is to use this DIYhologram template download from the website, Cafundo, and follow the steps below.</p><p><br></p><p>Decide if you will display your hologram with a tablet or a mobile phone.</p><p>Choose the corresponding template size from the download.</p><p>Print the template you need.</p><p>Copy the template onto transparency by running it through the copy machine.</p><p>Check to make sure your copy machine can handle transparencies! If it can&rsquo;t, you can carefully trace the template onto a transparency with a thin permanent marker. Use a ruler to make sure the lines are precise.</p><p>Follow the directions on the download to cut out and assemble the hologram pyramid projector.</p><p>If you want to push this project further and incorporate math, you could have your students create their own templates using rulers.</p>"
     },
     {
       "id" : 3,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "Test title 3",
+      "title" : "3. Create an image.",
       "description" : "",
       "written" : "Test written 3"
     },
@@ -87,7 +87,7 @@
       "id" : 5,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "Test title 5",
+      "title" : "4. Present Your Hologram",
       "description" : "",
       "written" : "Test written 5"
     },
@@ -95,23 +95,23 @@
       "id" : 6,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "Test title 6",
+      "title" : "Example 1: Digital Image",
       "description" : "",
       "written" : "Test written 6"
     },
     {
       "id" : 7,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 7",
+      "state" : "free",
+      "title" : "Example 2: Digital Animation",
       "description" : "",
       "written" : "Test written 7"
     },
     {
       "id" : 8,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "vip",
-      "title" : "Test title 8",
+      "state" : "free",
+      "title" : "Example 3: Traditional Drawing or Painting",
       "description" : "",
       "written" : "Test written 8"
     }
